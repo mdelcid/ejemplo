@@ -1,0 +1,14 @@
+package diagrama;
+
+public class Principal {
+
+	public static void main(String[] args)
+	{
+		Triangulo t = new Triangulo();;
+		t.setBase(4);
+		t.setAltura(5);
+		System.out.print(t.getArea());
+
+	}
+
+}

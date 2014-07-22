@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/alumno/17/.metadata/.plugins/org.eclipse.jdt.core
+1209766165.index
+731845245.index
+386936853.index
